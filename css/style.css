@@ -1,0 +1,19 @@
+.main {
+    width: 1024px;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding: 20px;
+    align-content: center;
+    text-align: center;
+}
+ul {
+    text-align: left;
+}
+h1, h2, h3 {
+    color: darkcyan
+}
+
+.img {
+    width: 200px;
+    height: 300px;
+}
