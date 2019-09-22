@@ -1,12 +1,12 @@
-#Beisembayev Mukagali  
-##Scrum Master/Software Engineer  
+# Beisembayev Mukagali  
+## Scrum Master/Software Engineer  
 **Gender:** Male  
 **E-mail:** Mukagali.bei@gmail.com  
 **Phone:** +7 702 368 1888  
 **Telegram:** @mukagali_bei  
 **Github:** [GitHub](http://github.com/Mucintosh)  
 
-###Summary:
+### Summary:
 
 * Successfully managed and delivered IT projects/products with overall budget exceeding 1 000 000 $.  
 * Certified scrum master (PSM I)
@@ -16,7 +16,7 @@
 * Managed and successfully implemented various types of systems such as DMS, CMS, CRM, ERP, reporting systems and e-commerce enterprise level web solutions.
 * __Would like to transition to full stack JavaScript developer in order to further enhance my technical skills__  
 
-###Education  
+### Education  
 
 University of Bradford, UK   
 Bachelor of Information Technology in multimedia computing  
@@ -25,14 +25,14 @@ INTI international university, Malaysia
 Bachelor of Information Technology in multimedia computing and internet  
 **Period:** 2010-2013  
 
-###Professional Experience  
+### Professional Experience  
 
 **Employer:** Tengizchevroil/Chevron   
 **Domain:** Energy (Oil and gas)  
 **Position:** IT Scrum master  
 **Period:** 07.2019 – until now    
 
-####Accomplishments:  
+#### Accomplishments:  
   
 * Implemented Agile values, principles, tools, and best practices for Finance, IT, SCM, and other departments in Base business
 * Successfully formed and coached more than 5 scrum/Kanban teams
@@ -47,7 +47,7 @@ Bachelor of Information Technology in multimedia computing and internet
 **Position:** Senior product manager/scrum master  
 **Period:** 04.2018 – 07.2019  
 
-####Accomplishments:  
+#### Accomplishments:  
 
 * Managed the product of digital sales channel for B2C segment, which increased digital sales of the company by 15% according to 2018’s digital sales report.
 * Facilitated 2 scrum development teams with 8 members each and a Product owner with more than 10 stakeholders
@@ -62,7 +62,7 @@ Bachelor of Information Technology in multimedia computing and internet
 **Position:** Product Manager (since 06.2015), Head of production line (since 05.2017)  
 **Period:** 06.2015 – 04.2018   
 
-####Accomplishments:  
+#### Accomplishments:  
 
 * Managed highly visible strategic projects (sump.kz, telecom.kz) for leading national telecommunications company (Kazakhtelecom)
 * Managed and implemented highly loaded mobile apps for android and iOS
@@ -79,7 +79,7 @@ Bachelor of Information Technology in multimedia computing and internet
 **Position:** .NET developer  
 **Period:**   09.2014-05.2015  
 
-####Accomplishments:  
+#### Accomplishments:  
 
 * Developed micro services using Windows Communication Foundation (WCF) for ERP system of railways inventory
 * Involved in full stack development using .NET framework and JavaScript frontend frameworks
@@ -91,7 +91,7 @@ Bachelor of Information Technology in multimedia computing and internet
 **Position:** Software engineer  
 **Period:**   09.2013 – 09.2014  
 
-####Accomplishments:    
+#### Accomplishments:    
 
 * Developed full stack JavaScript applications using node.js, angular.js, jQuery
 * Developer backend services using .NET framework for inventory systems
@@ -103,7 +103,7 @@ Bachelor of Information Technology in multimedia computing and internet
 **Position:** Software engineer intern  
 **Period:**  05.2013- 09.2013   
 
-####Accomplishments:   
+#### Accomplishments:   
  
 * Developed document workflow system based on open source solution ECM Alfresco which cut the company’s expenses for buying enterprise workflow solution.
 * Designed BPM of workflow processes for corporate business processes to avoid paper workflow procedures.
